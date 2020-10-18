@@ -6,7 +6,6 @@
 $ firebase deploy
 $ firebase deploy --only functions
 
-### Open urlendpoint
-https://project-id.web.app/api/v1/contacts
+### Open your urlendpoint
 
 
