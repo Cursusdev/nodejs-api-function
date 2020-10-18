@@ -3,8 +3,8 @@
 ### Create Firebase project and Firestore collections
 
 ### Deploy
-$ firebase deploy
-$ firebase deploy --only functions
+- $ firebase deploy
+- $ firebase deploy --only functions
 
 ### Open your urlendpoint
 
