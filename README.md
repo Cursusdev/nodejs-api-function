@@ -7,5 +7,3 @@
 - $ firebase deploy --only functions
 
 ### Open your urlendpoint
-
-
